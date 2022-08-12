@@ -20,10 +20,7 @@ export default function Home() {
       </div>
 
       <div className={styles.banner}>
-        <h1 className={styles.title}>Welcome to our class profile</h1>
-        <h4 className={styles.description}>
-          Head over to the <a class={styles.link} href="/profile">profile page</a> to see more
-        </h4>
+        <p>hi</p>
       </div>
     </>
   );
